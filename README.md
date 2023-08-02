@@ -8,4 +8,4 @@ If you have any questions or need further information, please visit our [website
 
 ---
 
-_Last updated: [Date]_
+_Last updated: 3 August 2023_
